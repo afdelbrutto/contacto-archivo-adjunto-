@@ -42,8 +42,7 @@ Por cada clic en enviar en el formulario de contacto recibirás la información 
 
 
 Este formulario de contacto en php simple busca ser una solución simple rapida y eficiente.
-Es una base fuerte y segura para que los usuarios del sitio web se contacten con usted.
-Usted SEÑOR WEB MASTER tiene que ser inteligente y astuto, es muy importante que en el archivo confirmacion.php donde el usuario va para confirmar el envio del mail en forma automatica despues de hacer CLIK en enviar ,usted ponga mas datos de contacto como su correo electrónico su teléfono su dirección y todo lo demas.
+
 
 Mucha suerte espero serle útil.
 Saludos.
